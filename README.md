@@ -17,22 +17,22 @@ make .env or .env.local file and paste
 ```text
     npm run dev
 ```
-adding data to database
+# adding data to database
 <p align="center">
   <img src="./gitresource/add.png" />
 </p>
 
-reading data from database
+# reading data from database
 <p align="center">
   <img src="./gitresource/reading.png" />
 </p>
 
-delete data from database
+# delete data from database
 <p align="center">
   <img src="./gitresource/delete.png" />
 </p>
 
-update data from database
+# update data from database
 <p align="center">
   <img src="./gitresource/update.png" />
 </p>
